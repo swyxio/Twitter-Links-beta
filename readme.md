@@ -24,4 +24,4 @@ Please be sure to provide feedback by filing an issue to **[report a bug ⛔️]
 
 ## Acknowledgement
 
-This is a maintained fork of https://github.com/round/Twitter-Links-beta.
+This is a maintained fork of https://github.com/round/Twitter-Links-beta (original tweet https://twitter.com/round/status/1138244047540228100).
