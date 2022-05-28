@@ -1,6 +1,12 @@
-# &nbsp;![Icon](https://raw.githubusercontent.com/round/Twitter-Links-beta/master/icon32.png) Twitter Links (Beta)
+# &nbsp;![Icon](https://raw.githubusercontent.com/round/Twitter-Links-beta/master/icon32.png) Twitter Links (swyx)
 
-1. Download the [latest release ⬇️](https://github.com/round/Twitter-Links-beta/releases/latest).
+## Why
+
+https://www.swyx.io/twitter-metacommentary
+
+## How
+
+1. Download the [latest release ⬇️](https://github.com/sw-yx/Twitter-Links-beta/releases).
 2. Go to 'Extensions' in Chrome (`chrome://extensions`) or Edge (`edge://extensions`).
 3. Enable 'Developer Mode' in the top right.
 4. Click 'Load Unpacked' and select the unzipped extension folder.
@@ -9,10 +15,13 @@
 
 ## Feedback
 
-Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/round/Twitter-Links-beta/issues/new?labels=⛔%EF%B8%8Fbug&template=bug.md)** or **[suggest a feature ❇️](https://github.com/round/Twitter-Links-beta/issues/new?labels=❇%EF%B8%8F%20feature&template=feature.md)** or send a **[message on Twitter 🐦](https://twitter.com/messages/compose?recipient_id=15300655&text=I%20have%20some%20feedback%20about%20Twitter%20Links%E2%80%A6
-)**.
+Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/sw-yx/Twitter-Links-beta/issues/new?labels=⛔%EF%B8%8Fbug&template=bug.md)** or **[suggest a feature ❇️](https://github.com/sw-yx/Twitter-Links-beta/issues/new?labels=❇%EF%B8%8F%20feature&template=feature.md)** or ping me on Twitter `@swyx`.
 
 ## Planned Features
 
 * Button clicks to toggle popup window for each tab
 * Experimental: open results in native Chrome popover
+
+## Acknowledgement
+
+This is a maintained fork of https://github.com/round/Twitter-Links-beta.
