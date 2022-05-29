@@ -4,6 +4,8 @@
 
 https://www.swyx.io/twitter-metacommentary
 
+![https://user-images.githubusercontent.com/6764957/77026532-4008f480-696a-11ea-9881-b6cb6e04f4f5.png](https://user-images.githubusercontent.com/6764957/77026532-4008f480-696a-11ea-9881-b6cb6e04f4f5.png)
+
 ## How
 
 1. Download the [latest release ⬇️](https://github.com/sw-yx/Twitter-Links-beta/releases).
