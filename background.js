@@ -5,7 +5,7 @@ function openSearch(tab) {
         encodeURIComponent(tab.url) +
         '&src=typed_query' +
         '&TwitterLinks',
-      tabId: tab.id,
+      // tabId: tab.id + RandomInteger(),
       top: (currentWindow.top + (currentWindow.height - tab.height)),
       left: (currentWindow.left + tab.width - 400),
       width: 400,
@@ -13,6 +13,12 @@ function openSearch(tab) {
     }
     );
   });
+}
+
+
+function RandomInteger() {
+  var x = Math.floor((Math.random() * 100) + 1);
+  return x;
 }
 
 chrome.action.onClicked.addListener(function (tab) {
