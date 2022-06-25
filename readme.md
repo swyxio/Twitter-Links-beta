@@ -1,8 +1,15 @@
-# &nbsp;![Icon](https://raw.githubusercontent.com/round/Twitter-Links-beta/master/icon32.png) Twitter Links (swyx)
+# &nbsp;![Icon](https://raw.githubusercontent.com/round/Twitter-Links-beta/master/icon32.png) Twitter Links (swyx's version)
 
-## Why
+## Why this fork
 
-https://www.swyx.io/twitter-metacommentary
+@round's version was unmaintained, and i wanted improvements.
+
+- I have also updated it for [Chrome Extensions v3]([url](https://blog.shahednasser.com/chrome-extension-tutorial-migrating-to-manifest-v3-from-v2/#from-background-scripts-to-service-workers))
+
+
+## Original Why
+
+Read: https://www.swyx.io/twitter-metacommentary
 
 ![https://user-images.githubusercontent.com/6764957/77026532-4008f480-696a-11ea-9881-b6cb6e04f4f5.png](https://user-images.githubusercontent.com/6764957/77026532-4008f480-696a-11ea-9881-b6cb6e04f4f5.png)
 
