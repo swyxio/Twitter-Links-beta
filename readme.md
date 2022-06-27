@@ -15,7 +15,7 @@ Read: https://www.swyx.io/twitter-metacommentary
 
 ## How
 
-1. Download the [latest release ⬇️](https://github.com/sw-yx/Twitter-Links-beta/releases).
+1. Download the [latest release](https://github.com/sw-yx/Twitter-Links-beta/releases) (or clone this repo).
 2. Go to 'Extensions' in Chrome (`chrome://extensions`) or Edge (`edge://extensions`).
 3. Enable 'Developer Mode' in the top right.
 4. Click 'Load Unpacked' and select the unzipped extension folder.
@@ -30,6 +30,10 @@ Please be sure to provide feedback by filing an issue to **[report a bug ⛔️]
 
 * Button clicks to toggle popup window for each tab
 * Experimental: open results in native Chrome popover
+
+## See also
+
+My Hacker News Extension https://github.com/sw-yx/HNX
 
 ## Acknowledgement
 
